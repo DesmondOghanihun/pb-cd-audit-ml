@@ -1,0 +1,1 @@
+definitional_share=0.9915

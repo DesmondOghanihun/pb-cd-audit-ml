@@ -1,0 +1,13 @@
+feature,mean_abs_shap,definitional,rank
+Physical and chemical properties of biomass charcoal adsorption__pH,1.3105849435938022,True,1
+Physical and chemical properties of biomass charcoal adsorption__Apertures（nm),0.1825754272978562,True,2
+Physical and chemical properties of biomass charcoal adsorption__Total pore volume(cm3/g),0.07589820824525689,True,3
+Elemental Analysis__Element H（%）,0.008812152179455633,False,4
+Elemental Analysis__Element O（%）,0.0021359975646250665,False,5
+Elemental Analysis__Element N（%）,0.0020704301157461326,False,6
+Elemental Analysis__Element C（%）,0.0004124804684805055,False,7
+Industrial analysis__Volatile matter（%）,0.0,False,8
+Industrial analysis__Fixed carbon（%）,0.0,False,9
+Industrial analysis__Ash（%）,0.0,False,10
+Three-component analysis__Lignin（%）,0.0,False,11
+Three-component analysis__Moisture（%）,0.0,False,12

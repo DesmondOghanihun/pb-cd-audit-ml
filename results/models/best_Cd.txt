@@ -1,0 +1,6 @@
+dataset=Cd
+model=CatBoost
+test_rmse_log=0.935279
+positive_test_r2=yes
+log_target=True
+random_state=42

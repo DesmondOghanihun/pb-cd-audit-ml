@@ -1,0 +1,6 @@
+dataset=Pb
+model=CatBoost
+test_rmse_log=0.851274
+positive_test_r2=no
+log_target=True
+random_state=42
