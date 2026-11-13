@@ -1,4 +1,3 @@
-markdown
 # Audit-First ML for Pb/Cd Biochar Adsorption
 
 Official implementation of the paper "Audit-First Machine Learning for Pb and Cd Adsorption Capacity Prediction on Biochar."
